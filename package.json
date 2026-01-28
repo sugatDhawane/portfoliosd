@@ -1,0 +1,23 @@
+{
+  "name": "sgd-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio for Sugat Dhawane, Lead Frontend Engineer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "portfolio",
+    "typescript",
+    "vite"
+  ],
+  "author": "Sugat Dhawane",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {}
+}
