@@ -115,6 +115,14 @@ h3 {
 .logo {
     font-weight: 600;
     font-size: 1.5rem;
+    text-decoration: none;
+    color: var(--text-primary);
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
 }
 
 .nav-links {
